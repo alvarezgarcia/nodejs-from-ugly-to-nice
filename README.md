@@ -6,6 +6,7 @@
 El espíritu de este gitbook es acercar NodeJS a cualquiera que tenga una mínima experiencia en programación pero en el pasado ha luchado por entender los conceptos propios del lenguaje y los patrones específicos que brinda.
 
 Algunos documentos que encontramos intentan iniciar al lector, predispuesto a ensuciarse las manos rápidamente, a una buena cantidad de conceptos teóricos que pueden generar el efecto adverso en quien quiera empezar con algo nuevo.
+
 Otros eliminan esta barrera pero intentan suplir los conceptos teóricos con herramientas y modulos preexistentes, que pueden llevar al lector a perderse en un sinfin de detalles que, a priori, cree que no le serán útiles por no poder entender como éstas harán efectivas sus ansiedades de ver código en funcionamiento.
 
 Sin duda es valorable el esfuerzo de quien desinteresadamente publica su trabajo para ayudar a otros, el material aquí propuesto busca explicar estos mismos conceptos pero desde otro enfoque.
@@ -14,6 +15,7 @@ Sin duda es valorable el esfuerzo de quien desinteresadamente publica su trabajo
 Planteadas las dificultades, la estrategia propuesta es dividir el camino de aprendizaje en etapas llamadas **secciones**, internamente divididas en **capítulos**.
 
 Estas secciones comprenden el desarrollo de un proyecto de inicio a fin, siempre alineado con lo que el lenguaje ofrece como fuerte (ej: una API Rest, una webapp, un integración con una API de terceros, etc).
+
 Cada sección al iniciar pone de manifiesto cual será el proyecto a realizar y progresivamente, capítulo tras capítulo, desarrollar las características que lo componen y mejorarlas.
 
 Para sorpresa de quienes ya hayan tenido un acercamiento a otros tutoriales en estos temas especficos podrán constatar que deliberadamente son incluidas algunas malas prácticas, anti patrones o errores, pero aún con ellos permiten que el resultado final sea el esperado.
