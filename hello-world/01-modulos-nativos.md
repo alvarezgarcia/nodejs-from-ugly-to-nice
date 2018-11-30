@@ -1,6 +1,2 @@
----
-description: Este primer ejemplo comprende
----
-
-# 01 - Modulos nativos
+# 01 - Modulos incluídos en el runtime
 
