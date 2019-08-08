@@ -3,9 +3,11 @@
 En este primer capítulo vamos a crear el esqueleto de nuestro servidor web pero con una particularidad: todo el proyecto será
 escrito con módulos que son parte del runtime de NodeJS, es decir sin ninguna dependencia externa.
 NodeJS cuenta con una batería de módulos incluidos para realizar muchas de las tareas que hoy por hoy son comunes en herramientas
-web: publicar un servidor, encriptar archivos,XXXXXXXXXXX
+web
+
 Estos módulos son parte del núcleo de NodeJS y son los que sustentan otros que usaremos posteriormente, pero es indicado para empezar
 ver como podemos usarlos a éstos y conseguir los resultados esperados.
+
 Pasemos a la primera parte
 
 ## Un servidor mínimo, básico e incompleto
