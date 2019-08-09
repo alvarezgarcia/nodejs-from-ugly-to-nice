@@ -1,27 +1,21 @@
-# 01 - Modulos incluídos en el runtime
+# 01 - Only pure NodeJS modules
 
-En este primer capítulo vamos a crear el esqueleto de nuestro servidor web pero con una particularidad: todo el proyecto será
-escrito con módulos que son parte del runtime de NodeJS, es decir sin ninguna dependencia externa.
-NodeJS cuenta con una batería de módulos incluidos para realizar muchas de las tareas que hoy por hoy son comunes en herramientas
-web
+In this first chapter we will create the skeleton of our web server but with a particularity: the whole project will be
+written with modules that are part of the NodeJS runtime, that is, without any external dependency.
+NodeJS has a battery of modules included to perform many of the tasks that today are common today.
 
-Estos módulos son parte del núcleo de NodeJS y son los que sustentan otros que usaremos posteriormente, pero es indicado para empezar
-ver como podemos usarlos a éstos y conseguir los resultados esperados.
+These modules are part of the core of NodeJS and are the ones that support others that we will use later.
 
-Pasemos a la primera parte
+## A minimal, basic and incomplete server
 
-## Un servidor mínimo, básico e incompleto
+In this section we will create our first server and we will publish it locally.
+The different sections that compose it will be included and then the complete code will be published to ensure that it is complete.
 
-En este apartado vamos a crear nuestro primer servidor y lo vamos a publicar localmente.
-Se incluirán las diferentes secciones que lo componen y después será publicado el código completo para asegurarse que esté completo.
+We start with a new file: `index.js` and we start writing code:
 
-Empezamos por un archivo nuevo: `index.js` y empezamos a escribir código:
+For this server we will need to include a single module, this is: `http`
 
-Para este servidor vamos a necesitar incluir un sólo módulo, éste es: `http`
+`var http = require ('http');`
 
-`var http = require('http');`
-
-Con esta simple línea hemos insertado en nuestro script el módulo del protocolo http.
-La función `require` lleva por parámetro un solo módulo a incluir.
-
-
+With this simple line we have inserted in our script the http protocol module.
+The `require` function has a single module to include as a parameter.
