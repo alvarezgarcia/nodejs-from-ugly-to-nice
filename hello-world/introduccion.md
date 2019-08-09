@@ -1,8 +1,7 @@
-# Introducción
+# Introduction
 
-Los capítulos comprendidos en la sección _HELLO-WORLD_ tienen como objetivo la creación de un servidor web muy simple el cual cuenta con las siguientes características:
+The chapters included in the __HELLO-WORLD__ section are aimed to create a very simple web server which has the following features:
 
-* Una ruta por defecto `/` que devolverá la cadena `Hello World`.
-* Una ruta `/greet/XXXX`  dónde XXXX será una cadena elegida por el usuario y en base a esta devolverá un saludo, ej: `Hello XXXX`.
-* Una ruta `/bye/XXXX`  dónde XXXX será una cadena elegida por el usuario y en base a esta devolverá una despedida, ej: `Bye XXXX`.
-
+* A default route `/` that will return the Hello World string.
+* A route `/greet/XXXX` where XXXX will be a string chosen by the user and based on this will return a greeting, eg: `Hello XXXX`.
+* A route `/bye/XXXX` where XXXX will be a string chosen by the user and based on this will return a farewell, eg: `Bye XXXX`.
