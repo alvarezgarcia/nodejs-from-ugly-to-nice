@@ -25,12 +25,6 @@ However, never throughout this document will you try to improve or optimize some
 
 ### Structure
 
-Como ya se detalló en el apartado de Estrategia, el material se divide en secciones que engloban un proyecto determinado, estas secciones a su vez son divididas en capítulos que trabajan todos los aspectos de diseño e implementación de los mismos.
-
-Algunos de estos capítulos introducen conceptos nuevos para mejorar lo hecho en capítulos anteriores, otros llevarán al lector a replantearse por qué eso que vio funcionando en el capítulo anterior no es tan prolijo como debera ser o incluso otros simplemente forzarán a refactorizar o actualizar porciones de código para apegarse a nuevos stándares.
-
-Respecto a este último punto, es probable que el lector con menos experiencia pueda tener la sensación de estar "sacrificando" mucho de su código solo para cumplir con un standard, a modo de animar al lectora a implementar estos cambios pero sin que su código principal esté en riesgo, los capítulos que son sobre estos asuntos proveen scripts aparte con fragmentos de código para que puedan ser probados por separados, animando y dando seguridad para luego hacerlos parte del proyecto principal.
-
 As detailed in the Strategy section, the material is divided into sections that encompass a given project, these sections are in turn divided into chapters that work on all aspects of their design and implementation.
 
 Some of these chapters introduce new concepts to improve what was done in previous chapters, others will lead the reader to think again some excersides already done and find ways to improve it.
